@@ -1,0 +1,19 @@
+$main: #000345;
+$text: #3E407C;
+$accent: #FF1447;
+
+%btn-null{
+    border: none;
+    outline: none;
+    background-color: transparent;
+}
+%std-400{
+    font-family: "Circular Std", sans-serif;
+    font-weight: 400;
+}
+// @function max($numbers...) {
+//   @return m#{a}x(#{$numbers});
+// }
+// @function min($numbers...) {
+//   @return m#{i}n(#{$numbers});
+// }
